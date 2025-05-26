@@ -3,3 +3,7 @@ SCHEDULED: <2025-05-27 Tue>
 link: https://itch.io/jam/spring-lisp-game-jam-2025/entries
 * TODO Убраться в квартире
 SCHEDULED: <2025-05-26 Mon>
+* TODO Доделать переход на Vue в Mafia Game Helper
+SCHEDULED: <2025-05-28 Wed>
+* TODO Сделать первый квест в Pulpulak Quest Beggining
+SCHEDULED: <2025-05-29 Thu>
