@@ -1,0 +1,5 @@
+* TODO Review Lisp Game Jam 2025 submissions
+SCHEDULED: <2025-05-27 Tue>
+link: https://itch.io/jam/spring-lisp-game-jam-2025/entries
+* TODO Убраться в квартире
+SCHEDULED: <2025-05-26 Mon>
